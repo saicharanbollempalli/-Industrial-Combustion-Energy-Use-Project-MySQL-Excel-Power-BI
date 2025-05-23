@@ -13,9 +13,6 @@
 - [Power BI Dashboard](#power-bi-dashboard)
 - [KPIs Summary](#kpis-summary)
 - [Tech Stack](#tech-stack)
-- [How to Run This Project](#how-to-run-this-project)
-- [Conclusion](#conclusion)
-- [Resources](#resources)
 
 ---
 
@@ -50,8 +47,6 @@ This end-to-end analytics project explores industrial combustion energy consumpt
 
 ## 📈 Power BI Dashboard
 
-![Dashboard Screenshot](file:///C:/Users/chary/Pictures/Screenshots/ICE%20DASHBOARD.png)
-
 **Key Visuals:**
 - 💡 *Fuel Type vs MMBtu* (bar chart)
 - 📍 *MECS Region Share* (summary table)
@@ -79,9 +74,3 @@ This end-to-end analytics project explores industrial combustion energy consumpt
 - **MySQL** – For querying, modeling & aggregating KPIs
 - **Excel** – For raw data preprocessing
 - **Power BI** – For dashboard design and user interactivity
-
----
-
-## 🛠️ How to Run This Project
-   https://github.com/saicharanbollempalli/-Industrial-Combustion-Energy-Use-Project-MySQL-Excel-Power-BI/blob/main/README.md
-
