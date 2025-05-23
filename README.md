@@ -50,7 +50,7 @@ This end-to-end analytics project explores industrial combustion energy consumpt
 
 ## 📈 Power BI Dashboard
 
-![Dashboard Screenshot](ICE%20DASHBOARD.png)
+![Dashboard Screenshot](file:///C:/Users/chary/Pictures/Screenshots/ICE%20DASHBOARD.png)
 
 **Key Visuals:**
 - 💡 *Fuel Type vs MMBtu* (bar chart)
@@ -83,13 +83,5 @@ This end-to-end analytics project explores industrial combustion energy consumpt
 ---
 
 ## 🛠️ How to Run This Project
-
-1. Clone the repo:
-   ```bash
-   git clone ## 🛠️ How to Run This Project
-
-1. **Clone this GitHub repo**:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/-Industrial-Combustion-Energy-Use-Project-MySQL-Excel-Power-BI.git cd Industrial-Combustion-Energy-Use-Project-MySQL-Excel-Power-BI
-
+   https://github.com/saicharanbollempalli/-Industrial-Combustion-Energy-Use-Project-MySQL-Excel-Power-BI/blob/main/README.md
 
